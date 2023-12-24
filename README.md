@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ishanjstdarker" target="blank"><img src="https://img.shields.io/twitter/follow/ishanjstdarker?logo=twitter&style=for-the-badge" alt="ishanjstdarker" /></a> </p>
 
-- 🔭 I’m currently working on **Space VR App**
+- 🔭 I’m currently working on **A one-stop Placement Site**
 
-- 🌱 I’m currently learning **Unity 3D/DSA**
+- 🌱 I’m currently learning **Web Tech**
 
 - 💬 Ask me about **AI/ML, Flutter**
 
